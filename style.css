@@ -1,0 +1,172 @@
+body {
+    background-color: #06070c;
+    height: 10px;
+  }
+  .margin{
+      margin-top: 100px;
+    
+  }
+  #cont{
+      background-color: #d9e7ee;
+  }
+  .tips{
+    position: absolute;
+    width: 47px;
+    height: 28px;
+    left: 85px;
+    top: 25px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #ffffff;
+  }
+  .symptoms{
+    position: absolute;
+    width: 116px;
+    height: 28px;
+    left: 152px;
+    top: 25px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #ffffff;
+   }
+  .faqs{
+    position: absolute;
+    width: 56px;
+    height: 28px;
+    left: 283px;
+    top: 25px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #ffffff;
+  }
+  .youtube{
+    position: absolute;
+    width: 95px;
+    height: 28px;
+    left: 364px;
+    top: 25px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #ffffff;
+    
+  }
+  .globaldata{
+    position: absolute;
+    width: 116px;
+    height: 28px;
+    left: 479px;
+    top: 25px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #ffffff;
+ 
+  }
+  .credits{
+    position: absolute;
+    width: 95px;
+    height: 28px;
+    left: 615px;
+    top: 25px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #ffffff;
+  }
+  #footer{
+    background-color: #393E46;
+    height: 100px;
+  }
+  #kj{
+    font-size: 30px;
+    margin-top: 70px;
+    font-family: 'Segoe UI';
+    color: #00ADB5;
+  }
+  .img1{
+      margin-left: 920px;
+      margin-bottom: 30px;
+      margin-top: -25px;
+  }
+  h1{
+    margin-top: 170px;
+    margin-left: 85px;
+    font-size: 75px;
+    font-family: sans-serif;
+    color: #5ba1d2;
+  }
+  h4{
+      margin-top: -55px;
+      margin-left: 85px;
+      font-size: 50px;
+      font-family: sans-serif;
+      color: #f3aba4;
+  }
+  #uu{
+    color: red;
+    margin-top: -20px;
+    font-size: 22;
+    font-family: 'Times New Roman';
+  }
+  h3{
+      margin-left: 80px;
+      font-size: 30px;
+      font-family: sans-serif;
+      color: #181D31;
+  }
+  
+  h2 {
+    color: #393E46;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+  }
+  p {
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-left: 85px;
+    margin-right: 85px;
+    color: #181D31;
+  }
+  table {
+    table-layout: auto;
+    border: 25px #5ba1d2;
+    border-collapse: collapse;
+    background-color: #ffffff;
+  }
+  td{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 15px;
+    color: #1A374D;
+  }
+  th{
+    text-align: center;
+    font-size: 23px;
+    font-family: sans-serif;
+    padding: 15px;
+    color: #1A374D;
+  }
